@@ -5,6 +5,7 @@
 body {
   background-color: aqua;
   border: 7px solid red
+50%
 }
 
 h1 {
@@ -12,21 +13,22 @@ h1 {
   text-align: center;
   font-family: 'Manjari', sans-serif;
   border:9px solid green
+50%
 }
 
 h2 {
   color: orange;
   text-align: left;
   border: 10px solid blue
+50%
 }
 
 p {
   font-size: 20px;
-  border:11px solid yellow
 }
 </style>
 
 img{
-width:155px
-height:180px
+width:135px
+height:135px
 }
