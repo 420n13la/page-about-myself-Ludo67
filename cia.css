@@ -7,7 +7,7 @@ body {
   
 }
 
-h1 {d
+h1 {
   color: blue;
   text-align: center;
   font-family: 'Manjari', sans-serif;
@@ -27,7 +27,7 @@ p {
 }
 
 img{
-  width:135px;
-  height:135px;
+  width:150px;
+  height:150px;
 }
 </style>
