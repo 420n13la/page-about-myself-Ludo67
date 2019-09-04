@@ -4,23 +4,22 @@
 
 body {
   background-color: aqua;
-  border: 7px solid red
-50%
+  border: 7px solid re
 }
 
-h1 {
+h1 {d
   color: blue;
   text-align: center;
   font-family: 'Manjari', sans-serif;
   border:9px solid green
-50%
+
 }
 
 h2 {
   color: orange;
   text-align: left;
   border: 10px solid blue
-50%
+
 }
 
 p {
